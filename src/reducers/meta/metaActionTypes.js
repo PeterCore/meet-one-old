@@ -1,0 +1,6 @@
+const metaActionTypes = {
+    META_UPDATE_BEST_SERVER_HOST: "META_UPDATE_BEST_SERVER_HOST",
+    META_UPDATE_SERVER_HOST_DATA: "META_UPDATE_SERVER_HOST_DATA"
+};
+
+export default metaActionTypes;

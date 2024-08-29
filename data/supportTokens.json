@@ -1,0 +1,106 @@
+[
+    {
+        "icon": "http://static.ethte.com/helper/images/candy/logo/meetone.png",
+        "name": "MEETONE",
+        "sub_name": "MEET.ONE",
+        "publisher": "eosiomeetone",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "https://static.ethte.com/191531482583-pic-jpg(2018-07-13T19:49:53+08:00).jpg",
+        "name": "ONE",
+        "sub_name": "MORE.ONE",
+        "publisher": "meetonebonus",
+        "precision": 0,
+        "can_hide": 1
+    },
+    {
+        "icon": "https://static.ethte.com/helper/images/candy/logo/EOSADD.png",
+        "name": "ADD",
+        "sub_name": "EOS ADD",
+        "publisher": "eosadddddddd",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "http://static.ethte.com/helper/images/bp/logo/eosDAC.jpg",
+        "name": "EOSDAC",
+        "sub_name": "eosDAC",
+        "publisher": "eosdactokens",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "http://static.ethte.com/helper/images/candy/logo/Cetos.jpg",
+        "name": "CETOS",
+        "sub_name": "Cetos",
+        "publisher": "gyztomjugage",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "https://static.ethte.com/007509kfly8fp0u9n3rwpj30e80e8aa1-jpg(2018-07-13T17:29:32+08:00).jpg",
+        "name": "CET",
+        "sub_name": "Chaince",
+        "publisher": "eosiochaince",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "https://static.ethte.com/helper/images/candy/logo/eox.jpg",
+        "name": "EOX",
+        "sub_name": "EOX",
+        "publisher": "eoxeoxeoxeox",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "https://static.ethte.com/ednalogo-jpg(2018-06-15T12:25:06+08:00).jpg",
+        "name": "EDNA",
+        "sub_name": "eDNA",
+        "publisher": "ednazztokens",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "https://static.ethte.com/helper/images/candy/logo/logo_atidium.png",
+        "name": "ATD",
+        "sub_name": "Atidium",
+        "publisher": "eosatidiumio",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "http://static.ethte.com/helper/images/candy/logo/HorusPay.jpg",
+        "name": "HORUS",
+        "sub_name": "HoursePay",
+        "publisher": "horustokenio",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "http://static.ethte.com/karma.png",
+        "name": "KARMA",
+        "sub_name": "KARMA",
+        "publisher": "therealkarma",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "https://static.ethte.com/artboard-png(2018-07-12T14:54:27+08:00).png",
+        "name": "CHL",
+        "sub_name": "CHALLENGE",
+        "publisher": "challengedac",
+        "precision": 4,
+        "can_hide": 1
+    },
+    {
+        "icon": "http://static.ethte.com/helper/images/candy/logo/Everipedia.jpg",
+        "name": "IQ",
+        "sub_name": "Everipedia",
+        "publisher": "everipediaiq",
+        "precision": 3,
+        "can_hide": 1
+    }
+]

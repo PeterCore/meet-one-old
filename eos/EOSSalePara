@@ -1,0 +1,11 @@
+
+ uint     _numberOfDays,
+        uint128  _totalSupply,
+        uint     _openTime,
+        uint     _startTime,
+        uint128  _foundersAllocation,
+        string   _foundersKey
+
+        // 10000000000000000000000,"EIC token",8,"EIC"
+
+350,1000000000000000000000000000,1498482000,1498914000,100000000000000000000000000,"454f533563756a4e48474d595a5a3274674279794e4555616f504c46685a566d4758625a6339424c4a65516b4b5a46714759456951"

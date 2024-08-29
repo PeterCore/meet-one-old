@@ -1,0 +1,33 @@
+[{
+    "id": 1,
+    "name": "Newdex",
+    "ex_target": "https://newdex.340wan.com/kline/{{publisher}}-{{name}}-eos",
+    "icon": "https://static.ethte.com/dapps/icon/92_Newdex.png",
+    "icon_active": "https://static.ethte.com/exchange/newdexlogo_white.png",
+    "icon_inactive": "https://static.ethte.com/exchange/newdexlogo_gray.png",
+    "color": "#2C67F6"
+}, {
+    "id": 2,
+    "name": "FINDEX",
+    "ex_target": "https://mainnet.findex.one/trade/{{name}}_EOS",
+    "icon": "https://static.ethte.com/dapps/icon/88_FINDEX.png",
+    "icon_active": "https://static.ethte.com/exchange/findex_white.png",
+    "icon_inactive": "https://static.ethte.com/exchange/findex_gray.png",
+    "color": "#51A8D9"
+}, {
+    "id": 3,
+    "name": "WhaleEx",
+    "ex_target": "https://w.whaleex.com.cn/wallet/market/{{name}}_EOS",
+    "icon": "https://static.ethte.com/logoicon180-180-png(2018-12-12T13:48:35+08:00).png",
+    "icon_active": "https://static.ethte.com/MeetPC/2019_01_12/7181/whaleex_white.png",
+    "icon_inactive": "https://static.ethte.com/MeetPC/2019_01_12/7181/whaleex_gray.png",
+    "color": "#6B95B3"
+}, {
+    "id": 4,
+    "name": "DEXEOS",
+    "ex_target": "https://dexeos.io/trade/{{name}}",
+    "icon": "https://static.ethte.com/dexeos-png(2018-12-12T14:40:33+08:00).png",
+    "icon_active": "https://static.ethte.com/exchange/dexeos_white.png",
+    "icon_inactive": "https://static.ethte.com/exchange/dexeos_gray.png",
+    "color": "#1D222E"
+}]

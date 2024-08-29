@@ -1,0 +1,232 @@
+[
+  {
+    "index": 0,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/eth.png",
+    "name": "ETH",
+    "sub_name": "Ethereum Foundation",
+    "decimals": 18,
+    "contract": "",
+    "contract_address": "",
+    "can_hide": false
+  },
+  {
+    "index": 1,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/eos.png",
+    "name": "EOS",
+    "sub_name": "EOS",
+    "decimals": 18,
+    "contract": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+    "contract_address": "https://etherscan.io/token/EOS",
+    "can_hide": false
+  },
+  {
+    "index": 2,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/meet.png",
+    "name": "MEET.ONE",
+    "sub_name": "MEET.ONE",
+    "decimals": 18,
+    "contract": "0x49e033122c8300a6d5091acf667494466ee4a9d2",
+    "contract_address": "https://etherscan.io/address/0x49e033122c8300a6d5091acf667494466ee4a9d2",
+    "can_hide": false
+  },
+  {
+    "index": 3,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/one.png",
+    "name": "ONE",
+    "sub_name": "ONE",
+    "decimals": 0,
+    "contract": "0xcc167eb1e5cc0337ecdf17fca1e8edfbef466dc2",
+    "contract_address": "https://etherscan.io/token/0xcc167eb1e5cc0337ecdf17fca1e8edfbef466dc2",
+    "can_hide": false
+  },
+  {
+    "index": 4,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/dgd.png",
+    "name": "DGD",
+    "sub_name": "Digix DAO",
+    "decimals": 9,
+    "contract": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+    "contract_address": "https://etherscan.io/token/DGD",
+    "can_hide": true
+  },
+  {
+    "index": 5,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/mkr.png",
+    "name": "MKR",
+    "sub_name": "Maker Dao",
+    "decimals": 18,
+    "contract": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "contract_address": "https://etherscan.io/token/Maker",
+    "can_hide": true
+  },
+  {
+    "index": 6,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/rep.png",
+    "name": "REP",
+    "sub_name": "Augur Reputation",
+    "decimals": 18,
+    "contract": "0xe94327d07fc17907b4db788e5adf2ed424addff6",
+    "contract_address": "https://etherscan.io/token/REP",
+    "can_hide": true
+  },
+  {
+    "index": 7,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/gnt.png",
+    "name": "GNT",
+    "sub_name": "Golem Network Token",
+    "decimals": 18,
+    "contract": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+    "contract_address": "https://etherscan.io/token/Golem",
+    "can_hide": true
+  },
+  {
+    "index": 8,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/1st.png",
+    "name": "1ST",
+    "sub_name": "FirstBlood Token",
+    "decimals": 18,
+    "contract": "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
+    "contract_address": "https://etherscan.io/token/FirstBlood",
+    "can_hide": true
+  },
+  {
+    "index": 9,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/ant.png",
+    "name": "ANT",
+    "sub_name": "Aragon Network Token",
+    "decimals": 18,
+    "contract": "0x960b236A07cf122663c4303350609A66A7B288C0",
+    "contract_address": "https://etherscan.io/token/Aragon",
+    "can_hide": true
+  },
+  {
+    "index": 10,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/myst.png",
+    "name": "MYST",
+    "sub_name": "Mysterium Network",
+    "decimals": 18,
+    "contract": "0xa645264C5603E96c3b0B078cdab68733794B0A71",
+    "contract_address": "https://etherscan.io/token/0xa645264C5603E96c3b0B078cdab68733794B0A71",
+    "can_hide": true
+  },
+  {
+    "index": 11,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/bat.png",
+    "name": "BAT",
+    "sub_name": "Basic Attention Token",
+    "decimals": 18,
+    "contract": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "contract_address": "https://etherscan.io/token/Bat",
+    "can_hide": true
+  },
+  {
+    "index": 12,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/snt.png",
+    "name": "SNT",
+    "sub_name": "Status Network Token",
+    "decimals": 18,
+    "contract": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "contract_address": "https://etherscan.io/token/StatusNetwork",
+    "can_hide": true
+  },
+  {
+    "index": 13,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/pay.png",
+    "name": "PAY",
+    "sub_name": "TenX Pay Token",
+    "decimals": 18,
+    "contract": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+    "contract_address": "https://etherscan.io/token/TenXPay",
+    "can_hide": true
+  },
+  {
+    "index": 14,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/bnt.png",
+    "name": "BNT",
+    "sub_name": "Bancor Network Token",
+    "decimals": 18,
+    "contract": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "contract_address": "https://etherscan.io/token/Bancor",
+    "can_hide": true
+  },
+  {
+    "index": 15,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/btm.png",
+    "name": "BTM",
+    "sub_name": "Bytom",
+    "decimals": 18,
+    "contract": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+    "contract_address": "https://etherscan.io/token/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+    "can_hide": true
+  },
+  {
+    "index": 16,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/credo.png",
+    "name": "CREDO",
+    "sub_name": "Credo Token",
+    "decimals": 18,
+    "contract": "0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+    "contract_address": "https://etherscan.io/token/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+    "can_hide": true
+  },
+  {
+    "index": 17,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/lrc.png",
+    "name": "LRC",
+    "sub_name": "Loopring",
+    "decimals": 18,
+    "contract": "0xef68e7c694f40c8202821edf525de3782458639f",
+    "contract_address": "https://etherscan.io/token/0xef68e7c694f40c8202821edf525de3782458639f",
+    "can_hide": true
+  },
+  {
+    "index": 18,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/mana.png",
+    "name": "MANA",
+    "sub_name": "Decentraland MANA",
+    "decimals": 18,
+    "contract": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "contract_address": "https://etherscan.io/token/Decentraland",
+    "can_hide": true
+  },
+  {
+    "index": 19,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/dpy.png",
+    "name": "DPY",
+    "sub_name": "Delphy Token",
+    "decimals": 18,
+    "contract": "0x6c2adc2073994fb2ccc5032cc2906fa221e9b391",
+    "contract_address": "https://etherscan.io/token/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391",
+    "can_hide": true
+  },
+  {
+    "index": 20,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/star.png",
+    "name": "STAR",
+    "sub_name": "Starbase",
+    "decimals": 18,
+    "contract": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+    "contract_address": "https://etherscan.io/token/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+    "can_hide": true
+  },
+  {
+    "index": 21,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/freetoken.pro.png",
+    "name": "freetoken.pro",
+    "sub_name": "freetoken.pro",
+    "decimals": 18,
+    "contract": "0x954d9192b67c6658bbd4826da7b6b12a5087be1a",
+    "contract_address": "https://etherscan.io/token/0x954d9192b67c6658bbd4826da7b6b12a5087be1a",
+    "can_hide": true
+  },
+  {
+    "index": 22,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/meet-tokens/production/env.png",
+    "name": "ENV",
+    "sub_name": "Envion",
+    "decimals": 18,
+    "contract": "0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+    "contract_address": "https://etherscan.io/token/0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+    "can_hide": true
+  }
+]

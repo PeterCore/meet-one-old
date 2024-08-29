@@ -1,0 +1,32 @@
+[
+  {
+    "index": 0,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/gt-tokens/ropsent/eth.png",
+    "name": "ETH",
+    "sub_name": "Ethereum Foundation",
+    "decimals": 18,
+    "contract": "",
+    "contract_address": "",
+    "can_hide": false
+  },
+  {
+    "index": 1,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/gt-tokens/ropsent/eos.png",
+    "name": "EOS",
+    "sub_name": "EOS",
+    "decimals": 18,
+    "contract": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+    "contract_address": "https://etherscan.io/token/EOS",
+    "can_hide": false
+  },
+  {
+    "index": 2,
+    "icon": "https://s3-ap-southeast-1.amazonaws.com/gt-tokens/ropsent/eth.png",
+    "name": "EIB",
+    "sub_name": "EIB",
+    "decimals": 8,
+    "contract": "0xfe12c9af8737a17e27fcf7f70d16bac8c2adf2f9",
+    "contract_address": "https://ropsten.etherscan.io/address/0xfe12c9af8737a17e27fcf7f70d16bac8c2adf2f9",
+    "can_hide": true
+  }
+]

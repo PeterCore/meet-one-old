@@ -1,0 +1,76 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# macOS
+.DS_Store
+ios/.DS_Store
+
+# expo
+.expo/
+
+# dependencies
+/node_modules
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+build/
+
+# Android/IntelliJ
+#
+.idea
+.gradle
+local.properties
+*.iml
+
+
+# Xcode
+#
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+meet.xcworkspace
+
+
+meet.keystore
+meetkeystore.properties
+
+# android react native compile result
+android/app/src/main/assets_rct/**
+android/app/src/main/res_rct/**
+
+# ios react native compile result
+ios/bundle/**
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+#
+Pods/
+
+
+MeetArchive
+
+release_notes.md
+
+.vscode/

@@ -1,0 +1,13 @@
+{"serverHosts": [
+    {
+        "host": "https://api-china.ethte.com:443",
+        "port": 443,
+        "ping": "https://api-china.ethte.com:443/meta/ping"
+    },
+    {
+        "host": "https://api.meet.one:443",
+        "port": 443,
+        "ping": "https://api.meet.one:443/meta/ping"
+    }
+],
+    "version": 1}

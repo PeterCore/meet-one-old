@@ -1,0 +1,184 @@
+{
+    "code": 0,
+    "data": {
+        "banner_background": "https://static.ethte.com/white-png(2018-09-04T14:27:38+08:00).png",
+        "banner_swiper": [{
+            "id": 39,
+            "type": 3,
+            "title": "代理投票（Banner）",
+            "subtitle": null,
+            "uri": "https://static.ethte.com/proxyvote-png(2018-09-13T20:37:03+08:00).png",
+            "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TTm9kZVZvdGVQcm94eVBhZ2UlMjIlMkMlMjJvcHRpb25zJTIyJTNBJTdCJTdEJTdE&callbackId=",
+            "is_alert": 0,
+            "is_eos": 1
+        }, {
+            "id": 0,
+            "type": 3,
+            "title": "代理投票（Banner）",
+            "subtitle": null,
+            "uri": "https://static.ethte.com/proxyvote-png(2018-09-13T20:37:03+08:00).png",
+            "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TTm9kZVZvdGVQcm94eVBhZ2UlMjIlMkMlMjJvcHRpb25zJTIyJTNBJTdCJTdEJTdE&callbackId=",
+            "is_alert": 0,
+            "is_eos": 1
+        }],
+        "banner_items": [{
+            "id": 28,
+            "type": 1,
+            "title": "RAM 资源",
+            "subtitle": null,
+            "uri": "https://static.ethte.com/1-copy-8-png(2018-09-05T18:20:34+08:00).png",
+            "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyUkFNRXhjaGFuZ2VQYWdlJTIyJTJDJTIyb3B0aW9ucyUyMiUzQSU3QiU3RCU3RA==&callbackId=",
+            "is_alert": 0,
+            "is_eos": 1
+        }, {
+            "id": 29,
+            "type": 1,
+            "title": "节点投票",
+            "subtitle": null,
+            "uri": "https://static.ethte.com/1-copy-6-png(2018-09-08T22:49:30+08:00).png",
+            "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TTm9kZUxpc3RQYWdlJTIyJTJDJTIyb3B0aW9ucyUyMiUzQSU3QiU3RCU3RA==&callbackId=",
+            "is_alert": 0,
+            "is_eos": 1
+        }, {
+            "id": 5,
+            "type": 1,
+            "title": "EOSpark",
+            "subtitle": null,
+            "uri": "https://static.ethte.com/1-copy-png(2018-09-04T14:15:13+08:00).png",
+            "target": "meetone://app/webview?params=JTdCJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZlb3NwYXJrLmNvbSUyMiUyQyUyMnRpdGxlJTIyJTNBJTIyJUU3JUJEJTkxJUU3JUJCJTlDJUU2JTlGJUE1JUU3JTlDJThCJUU1JTk5JUE4JTIyJTdE&callbackId=",
+            "is_alert": 0,
+            "is_eos": 0
+        }, {
+            "id": 57,
+            "type": 1,
+            "title": "EOS 天眼",
+            "subtitle": null,
+            "uri": "https://static.ethte.com/1-copy-13-png(2018-09-28T13:41:42+08:00).png",
+            "target": "meetone://app/webview?params=JTdCJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZlb3Muc2xvd21pc3QuaW8lMjIlMkMlMjJ0aXRsZSUyMiUzQSUyMiUyMiU3RA==&callbackId=",
+            "is_alert": 0,
+            "is_eos": 0
+        }],
+        "common_blocks": [{
+            "NAME": "糖果空投",
+            "items": [{
+                "id": 10,
+                "type": 4,
+                "title": "EOS 糖果",
+                "subtitle": "上新 | GenerEOS",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/candies.png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyQ2FuZHlQYWdlJTIyJTJDJTIyb3B0aW9ucyUyMiUzQSU3QiU3RCU3RA==&callbackId=",
+                "is_alert": 0,
+                "is_eos": 0
+            }, {
+                "id": 11,
+                "type": 4,
+                "title": "AirGrab",
+                "subtitle": "支付 RAM 领糖果",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/airgrab.png",
+                "target": "meetone://app/webview?params=JTdCJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZtZWV0Lm9uZSUyRmVvc3Rvb2xzJTJGYWlyZ3JhYiUyMiUyQyUyMnRpdGxlJTIyJTNBJTIyQWlyR3JhYiUyMiU3RA==&callbackId=",
+                "is_alert": 0,
+                "is_eos": 1
+            }]
+        }, {
+            "NAME": "EOS 工具",
+            "items": [{
+                "id": 13,
+                "type": 4,
+                "title": "RAM 交易",
+                "subtitle": "RAM 行情及交易",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/ram.png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyUkFNRXhjaGFuZ2VQYWdlJTIyJTJDJTIyb3B0aW9ucyUyMiUzQSU3QiU3RCU3RA==&callbackId=",
+                "is_alert": 0,
+                "is_eos": 1
+            }, {
+                "id": 14,
+                "type": 4,
+                "title": "节点投票",
+                "subtitle": "BP 查看和投票",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/bpvote.png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TTm9kZUxpc3RQYWdlJTIyJTJDJTIyb3B0aW9ucyUyMiUzQSU3QiU3RCU3RA==&callbackId=",
+                "is_alert": 0,
+                "is_eos": 1
+            }, {
+                "id": 15,
+                "type": 4,
+                "title": "资源免费抵押",
+                "subtitle": "急救工具",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/sos.png",
+                "target": "meetone://app/webview?params=JTdCJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZkYXBwLmV0aHRlLmNvbSUyRmVvc3Rvb2xzJTJGYmFua29mc3Rha2UlMjIlMkMlMjJ0aXRsZSUyMiUzQSUyMiUyMiU3RA==&callbackId=",
+                "is_alert": 0,
+                "is_eos": 1
+            }, {
+                "id": 16,
+                "type": 4,
+                "title": "网络浏览器",
+                "subtitle": "EOSpark",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/monitor.png",
+                "target": "meetone://app/webview?params=JTdCJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZlb3NwYXJrLmNvbSUyMiUyQyUyMnRpdGxlJTIyJTNBJTIyJUU3JUJEJTkxJUU3JUJCJTlDJUU2JTlGJUE1JUU3JTlDJThCJUU1JTk5JUE4JTIyJTdE&callbackId=",
+                "is_alert": 0,
+                "is_eos": 0
+            }, {
+                "id": 42,
+                "type": 4,
+                "title": "私钥生成器",
+                "subtitle": "生成公私钥",
+                "uri": "https://static.ethte.com/icon-key-png(2018-09-18T20:12:22+08:00).png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TQWNjb3VudFJlZ2lzdGVyRnJlc2htYW5QYWdlJTIyJTJDJTIyb3B0aW9ucyUyMiUzQSU3QiU3RCU3RA==&callbackId=",
+                "is_alert": 0,
+                "is_eos": 0
+            }]
+        }, {
+            "NAME": "账号注册",
+            "items": [{
+                "id": 18,
+                "type": 4,
+                "title": "自助注册",
+                "subtitle": "智能合约创建账号",
+                "uri": "https://static.ethte.com/self-reg2-png(2018-09-01T16:46:38+08:00).png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyUmVnaXN0ZXJBY2NvdW50QnlDb250cmFjdCUyMiUyQyUyMm9wdGlvbnMlMjIlM0ElN0IlN0QlN0Q=&callbackId=",
+                "is_alert": 0,
+                "is_eos": 0
+            }, {
+                "id": 44,
+                "type": 4,
+                "title": "邀请码注册",
+                "subtitle": "邀请码创建账号",
+                "uri": "https://static.ethte.com/code-png(2018-09-18T20:53:05+08:00).png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TQ3JlYXRlV2FsbGV0UGFnZSUyMiUyQyUyMm9wdGlvbnMlMjIlM0ElN0IlN0QlN0Q=&callbackId=",
+                "is_alert": 0,
+                "is_eos": 0
+            }, {
+                "id": 20,
+                "type": 4,
+                "title": "新增账号",
+                "subtitle": "给自己新建账号",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/reg-bulk.png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TQWNjb3VudFJlZ2lzdGVyUGFnZSUyMiUyQyUyMm9wdGlvbnMlMjIlM0ElN0IlN0QlN0Q=&callbackId=",
+                "is_alert": 0,
+                "is_eos": 1
+            }, {
+                "id": 19,
+                "type": 4,
+                "title": "好友注册",
+                "subtitle": "帮助别人创建账号",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/reg-friend.png",
+                "target": "meetone://app/navigate?params=JTdCJTIydGFyZ2V0JTIyJTNBJTIyRU9TQWNjb3VudFJlZ2lzdGVySW5kZXhQYWdlJTIyJTJDJTIyb3B0aW9ucyUyMiUzQSU3QiU3RCU3RA==&callbackId=",
+                "is_alert": 0,
+                "is_eos": 0
+            }]
+        }, {
+            "NAME": "更多",
+            "items": [{
+                "id": 21,
+                "type": 4,
+                "title": "代币迁移",
+                "subtitle": "MEETONE / KEOS",
+                "uri": "https://static.ethte.com/MeetPC/2018_08_31/4586/tokenmigration.png",
+                "target": "meetone://app/webview?params=JTdCJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdGF0aWMuZXRodGUuY29tJTJGbW92ZV9pbmRleCUyRjEwMDElMkZpbmRleC5odG1sJTIyJTJDJTIydGl0bGUlMjIlM0ElMjIlMjIlN0Q=&callbackId=",
+                "is_alert": 0,
+                "is_eos": 0
+            }]
+        }]
+    },
+    "message": ""
+}
